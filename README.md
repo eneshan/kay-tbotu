@@ -1,2 +1,1 @@
-# kay-tbotu
-kayıtbotu
+# kay-t-botu
